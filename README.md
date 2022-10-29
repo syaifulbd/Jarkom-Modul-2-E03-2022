@@ -77,7 +77,7 @@ f. Eden
 - Membuat Konfigurasi reverse di file /etc/bind/named.conf.local
 ![image](https://user-images.githubusercontent.com/33245436/198837772-ab0bf5e4-3348-4786-ab03-76ec1460623a.png)
 
-- Membuat file /etc/bind/wise/1.23.10.in-addr.arpa dengan konfiguasi sebagai berikut
+- Membuat file /etc/bind/jarkom/1.23.10.in-addr.arpa dengan konfiguasi sebagai berikut
 ![image](https://user-images.githubusercontent.com/33245436/198838310-5f9c0025-fef1-4d0a-812d-592ace990171.png)
 
 - Bukti reverse telah berjalan
